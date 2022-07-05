@@ -1,4 +1,0 @@
-Firstname        Lastname ID                     Role
-John Smith          1     Contributor
-Jane      Doe         2                Owner     
-Seth    Rogen 3 Administrator
