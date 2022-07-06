@@ -13,6 +13,8 @@ This is an example program. Parameters/values in reader.py can be changed to mat
 
 To run the program, the text file must be in the same directory as reader.py. 
 
+To export the dataframe, you can follow the instructions at this link: https://towardsdatascience.com/how-to-export-pandas-dataframe-to-csv-2038e43d9c03
+
 Reference links for the code:
 https://towardsdatascience.com/parsing-fixed-width-text-files-with-pandas-f1db8f737276 
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_fwf.html
