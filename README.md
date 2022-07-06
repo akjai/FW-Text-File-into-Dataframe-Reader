@@ -6,6 +6,8 @@ FWTFs cannot be read as a delimited file (comma, tab, etc) because each column i
 
 This is an example program. Parameters/values in reader.py can be changed to match another file used. In the colspecs list, you will need to know the starting and end character indexes of your own file and replace the values accordingly. 
 
+To run the program, the text file must be in the same directory as reader.py. 
+
 Reference links for the code:
 https://towardsdatascience.com/parsing-fixed-width-text-files-with-pandas-f1db8f737276 
 https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_fwf.html
